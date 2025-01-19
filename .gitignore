@@ -36,8 +36,8 @@ key.pem
 *.tmp
 *.temp
 
-#ignore llama3.2
-*llama3.2-1B-Instruct/
+# Ignore llama3.2
+*llama3.2-1B-Instruct/*
 
 #ignore processor
-*processor/
+*processor/*
